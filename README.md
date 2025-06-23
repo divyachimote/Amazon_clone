@@ -13,3 +13,7 @@ A fully responsive **Amazon website clone** built using **pure HTML and CSS**. T
 - ❌ No JavaScript or backend functionality (UI only)
 
 ---
+## Screenshots
+(https://github.com/user-attachments/assets/03a70214-6052-4651-b2c9-790d2edd8bc3)
+
+---
